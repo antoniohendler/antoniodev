@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+=======
+<h1 align="center"> DevLinks </h1>
+
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+>>>>>>> 57319ca7384c17c5a2389275d8f6446a57c3fa76
 </p>
 
 <p align="center">
@@ -18,7 +25,11 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+=======
+  <img alt="projeto Devlinks" src=".github/preview.jpg" width="100%">
+>>>>>>> 57319ca7384c17c5a2389275d8f6446a57c3fa76
 </p>
 
 ## 🚀 Tecnologias
